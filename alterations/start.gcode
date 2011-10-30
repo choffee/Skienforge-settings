@@ -5,6 +5,8 @@ G0 Z10
 G0 X-200 Y-200 F2700.0 ; move as to the end stops
 M109 S190 ; Set the temp to 185 and wait.
 G0 Z-100 
+G0 Z5  ; move up a little
+G1 Z-10 F60 ; Slowly move down
 G90 ; Back to aboslute
 G92 X0 Y0 Z0 ; Reset the x and y coords
 
