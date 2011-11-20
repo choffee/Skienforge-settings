@@ -5,7 +5,6 @@ Open File for Carve
 Add Layer Template to SVG	True
 Extra Decimal Places (float):	2.0
 Import Coarseness (ratio):	1.0
-Infill in Direction of Bridge	True
 Layer Thickness (mm):	0.4
 Layers From (index):	0
 Layers To (index):	912345678

@@ -3,6 +3,8 @@ _Name                          	Value
 WindowPosition	700+0
 Open File for Skin	
 Activate Skin	False
-Half Width Perimeter	True
+Horizontal Infill Divisions (integer):	2
+Horizontal Perimeter Divisions (integer):	1
+Vertical Divisions (integer):	2
 Hop When Extruding Infill	False
 Layers From (index):	1
