@@ -14,7 +14,7 @@ comb	False
 cool	False
 dimension	False
 drill	False
-export	True
+export	False
 feed	False
 fill	False
 fillet	False
@@ -28,7 +28,7 @@ lift	False
 limit	False
 mill	False
 multiply	False
-oozebane	False
+oozebane	True
 outset	False
 preface	False
 raft	False
