@@ -12,7 +12,7 @@ G92 X0 Y0 Z0 ; Reset the x and y coords
 
 G92 E0 ; reset the extruder to 0
 G0 Z5 ; move up a little
-G1 E5 ; 
+G1 E2 ; 
 G92 E0 ;
 G1 Z6 F2700;
 
