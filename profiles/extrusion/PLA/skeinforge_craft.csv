@@ -28,7 +28,7 @@ lift	False
 limit	False
 mill	False
 multiply	False
-oozebane	True
+oozebane	False
 outset	False
 preface	False
 raft	False
@@ -39,7 +39,7 @@ smooth	False
 speed	False
 splodge	False
 stretch	False
-temperature	False
+temperature	True
 tower	False
 unpause	False
 whittle	False
