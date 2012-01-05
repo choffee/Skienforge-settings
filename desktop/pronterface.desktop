@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Pronterface
+Type=Application
+Comment=3D Printer Reprap control software
+MimeType=application/x-pront
+Exec=/usr/local/RepRap/Printrun/pronterface.py
+Categories=Application;Graphics;3DGraphics;Printing
+Terminal=false
+Icon=aoi.png

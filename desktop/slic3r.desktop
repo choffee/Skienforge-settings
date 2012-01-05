@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Slic3r
+Type=Application
+Comment=3D Printer Reprap GCODE slicer
+MimeType=application/x-stl
+Exec=/usr/local/RepRap/Slic3r/bin/slic3r
+Categories=Application;Graphics;3DGraphics;Printing
+Terminal=false
+Icon=Slic3r.png
