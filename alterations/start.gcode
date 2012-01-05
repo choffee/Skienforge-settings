@@ -5,10 +5,8 @@ G0 Z3 ; move up just a little
 G28 X Y ; Home the X and Y
 M109 S185 ; Set the temp to 185 and wait.
 G28 Z ; Home the Z 
-G0 Z5  ; move up a little
 G90 ; Back to aboslute
 G92 X0 Y0 Z0 ; Reset the x and y coords
-
 G92 E0 ; reset the extruder to 0
 G0 Z5 ; move up a little
 G1 E2 ; 
